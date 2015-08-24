@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>Remote.qml</file>
+        <file>Thumbnail.qml</file>
     </qresource>
 </RCC>
